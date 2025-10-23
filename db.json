@@ -1,17 +1,17 @@
 
 {
   "usuarios": [
-    { "id": 1, "login": "usuario01", "senha": "1", "senhaRepeticao": "1", "cpf": "111111111", "gerente": true },
-    { "id": 2, "login": "usuario02", "senha": "1", "senhaRepeticao": "1", "cpf": "111111111", "gerente": true },
-    { "id": 3, "login": "usuario03", "senha": "1", "senhaRepeticao": "1", "cpf": "111111111", "gerente": true },
-    { "id": 4, "login": "usuario04", "senha": "1", "senhaRepeticao": "1", "cpf": "111111111", "gerente": false },
-    { "id": 5, "login": "usuario05", "senha": "1", "senhaRepeticao": "1", "cpf": "111111111", "gerente": false }
+    { "id": 1, "login": "usuario01", "senha": "1", "senhaRepeticao": "1", "cpf": "111111111", "gerente": true, "proprietario": true },
+    { "id": 2, "login": "usuario02", "senha": "1", "senhaRepeticao": "1", "cpf": "111111111", "gerente": true, "proprietario": true },
+    { "id": 3, "login": "usuario03", "senha": "1", "senhaRepeticao": "1", "cpf": "111111111", "gerente": true, "proprietario": true},
+    { "id": 4, "login": "usuario04", "senha": "1", "senhaRepeticao": "1", "cpf": "111111111", "gerente": false, "proprietario": false},
+    { "id": 5, "login": "usuario05", "senha": "1", "senhaRepeticao": "1", "cpf": "111111111", "gerente": false, "proprietario": false}
   ],
-  "cursos": [
-    { "id": 1, "nome": "Curso 1", "idCoordenador": 1 },
-    { "id": 2, "nome": "Curso 2", "idCoordenador": 2 },
-    { "id": 3, "nome": "Curso 3", "idCoordenador": 3 },
-    { "id": 4, "nome": "Curso 4", "idCoordenador": 4 }
+  "estabelecimentos": [
+    { "id": 1, "nome": "Estabelecimento 1", "nome": "Estabelecimento 1", "idProprietario": 1 },
+    { "id": 2, "nome": "Estabelecimento 2", "idProprietario": 2 },
+    { "id": 3, "nome": "Estabelecimento 3", "idProprietario": 3 },
+    { "id": 4, "nome": "Estabelecimento 4", "idProprietario": 4 }
   ],
   "professores": [
     { "id": 1, "nome": "Professor 1", "cpf": "111111111", "email": "professor1@email.com", "celular": "1111-1111" },
