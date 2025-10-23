@@ -26,5 +26,8 @@
     { "id": 3, "matricula": 3, "nome": "Aluno 3", "cpf": "111111111", "email": "aluno3@email.com", "celular": "3333-3333", "idCurso": 2 },
     { "id": 4, "matricula": 4, "nome": "Aluno 4", "cpf": "111111111", "email": "aluno4@email.com", "celular": "4444-4444", "idCurso": 2 },
     { "id": 5, "matricula": 5, "nome": "Aluno 5", "cpf": "111111111", "email": "aluno5@email.com", "celular": "5555-5555", "idCurso": 3 }
+  ],
+  "estabelecimentos1": [
+    { "id": 1, "nome": "Estabelecimento 1", "CNPJ": "00.000.000/0000-00", "idProprietario": 1 }
   ]
 }
