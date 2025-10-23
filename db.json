@@ -1,11 +1,11 @@
 
 {
   "usuarios": [
-    { "id": 1, "login": "usuario01", "senha": "1", "senhaRepeticao": "1", "cpf": "111111111", "admin": true },
-    { "id": 2, "login": "usuario02", "senha": "1", "senhaRepeticao": "1", "cpf": "111111111", "admin": true },
-    { "id": 3, "login": "usuario03", "senha": "1", "senhaRepeticao": "1", "cpf": "111111111", "admin": true },
-    { "id": 4, "login": "usuario04", "senha": "1", "senhaRepeticao": "1", "cpf": "111111111", "admin": false },
-    { "id": 5, "login": "usuario05", "senha": "1", "senhaRepeticao": "1", "cpf": "111111111", "admin": false }
+    { "id": 1, "login": "usuario01", "senha": "1", "senhaRepeticao": "1", "cpf": "111111111", "gerente": true },
+    { "id": 2, "login": "usuario02", "senha": "1", "senhaRepeticao": "1", "cpf": "111111111", "gerente": true },
+    { "id": 3, "login": "usuario03", "senha": "1", "senhaRepeticao": "1", "cpf": "111111111", "gerente": true },
+    { "id": 4, "login": "usuario04", "senha": "1", "senhaRepeticao": "1", "cpf": "111111111", "gerente": false },
+    { "id": 5, "login": "usuario05", "senha": "1", "senhaRepeticao": "1", "cpf": "111111111", "gerente": false }
   ],
   "cursos": [
     { "id": 1, "nome": "Curso 1", "idCoordenador": 1 },
