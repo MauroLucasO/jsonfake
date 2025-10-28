@@ -24,6 +24,12 @@
     { "id": 3, "nome": "Estabelecimento3", "CNPJ": "00.000.000/0000-00", "telefone": "(00) 00000-0000", "email": "estabelecimento3@email.com", "cidade": "Juiz de Fora", "bairro": "bairro", "logradouro": "logradouro", "numero": "1", "complemento": "complemento", "pontoDeReferencia": "Ponto de Referencia", "idProprietario": 3 },
     { "id": 4, "nome": "Estabelecimento4", "CNPJ": "00.000.000/0000-00", "telefone": "(00) 00000-0000", "email": "estabelecimento4@email.com", "cidade": "Juiz de Fora", "bairro": "bairro", "logradouro": "logradouro", "numero": "1", "complemento": "complemento", "pontoDeReferencia": "Ponto de Referencia", "idProprietario": 4 }
   ],
+    "produto": [
+    { "id": 1,  "nome": "Coxinha" "quantidade": "1 dia"},
+    { "id": 2,  "nome": "Empada", "quantidade": "1 dia"},
+    { "id": 3,  "nome": "Refrigerante", "quantidade": "1 dia"},
+    { "id": 4,  "nome": "ÁguaComGás", "quantidade": "1 dia"}
+  ],
     "cupom": [
     { "id": 1,  "desconto": "30%", "duracao": "1 dia", "nome": "cupom", "idEstabelecimento": 1 },
     { "id": 2,  "desconto": "30%", "duracao": "1 dia", "nome": "cupom", "idEstabelecimento": 2 },
