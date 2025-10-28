@@ -30,5 +30,9 @@
     { "id": 2,  "desconto": "30%", "duracao": "1 dia", "nome": "cupom", "idEstabelecimento": 2 },
     { "id": 3,  "desconto": "30%", "duracao": "1 dia", "nome": "cupom", "idEstabelecimento": 3 },
     { "id": 4,  "desconto": "30%", "duracao": "1 dia", "nome": "cupom", "idEstabelecimento": 4 }
+  ],
+  "produto": [
+    { "id": 1, "nome": "Produto 1", "preco": 10.50, "descricao": "Produto teste", "idEstabelecimento": 1 },
+    { "id": 2, "nome": "Produto 2", "preco": 15.00, "descricao": "Outro produto", "idEstabelecimento": 2 }
   ]
 }
