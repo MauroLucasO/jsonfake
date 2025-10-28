@@ -31,6 +31,9 @@
   ],
   "produto": [
     { "id": 1, "nome": "Produto 1", "preco": 10.50, "descricao": "Produto teste", "idEstabelecimento": 1 },
-    { "id": 2, "nome": "Produto 2", "preco": 15.00, "descricao": "Outro produto", "idEstabelecimento": 2 }
+    { "id": 2, "nome": "Produto 2", "preco": 15.00, "descricao": "Outro produto", "idEstabelecimento": 2 },
+    { "id": 1, "nome": "Produto 3", "preco": 12.25, "descricao": "Outro produto", "idEstabelecimento": 3 },
+    { "id": 2, "nome": "Produto 4", "preco": 17.75, "descricao": "Outro produto", "idEstabelecimento": 4 }    
+    
   ]
 }
