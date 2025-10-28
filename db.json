@@ -17,5 +17,17 @@
     { "id": 2, "nome": "Nome2", "cpf": "111111111", "telefone": "(00) 00000-0000", "email": "usuario2@email.com", "senha": "1", "senhaRepeticao": "1", "cep": "00000000", "cidade": "Juiz de Fora", "bairro": "bairro", "logradouro": "logradouro", "numero": "1", "complemento": "complemento", "pontoDeReferencia": "Ponto de Referencia"},
     { "id": 3, "nome": "Nome3", "cpf": "111111111", "telefone": "(00) 00000-0000", "email": "usuario3@email.com", "senha": "1", "senhaRepeticao": "1", "cep": "00000000", "cidade": "Juiz de Fora", "bairro": "bairro", "logradouro": "logradouro", "numero": "1", "complemento": "complemento", "pontoDeReferencia": "Ponto de Referencia"},
     { "id": 4, "nome": "Nome4", "cpf": "111111111", "telefone": "(00) 00000-0000", "email": "usuario4@email.com", "senha": "1", "senhaRepeticao": "1", "cep": "00000000", "cidade": "Juiz de Fora", "bairro": "bairro", "logradouro": "logradouro", "numero": "1", "complemento": "complemento", "pontoDeReferencia": "Ponto de Referencia"}
+  ],
+   "estabelecimento": [
+    { "id": 1, "nome": "Estabelecimento1", "CNPJ": "00.000.000/0000-00", "telefone": "(00) 00000-0000", "email": "estabelecimento1@email.com", "cidade": "Juiz de Fora", "bairro": "bairro", "logradouro": "logradouro", "numero": "1", "complemento": "complemento", "pontoDeReferencia": "Ponto de Referencia", "idProprietario": 1 },
+    { "id": 2, "nome": "Estabelecimento2", "CNPJ": "00.000.000/0000-00", "telefone": "(00) 00000-0000", "email": "estabelecimento2@email.com", "cidade": "Juiz de Fora", "bairro": "bairro", "logradouro": "logradouro", "numero": "1", "complemento": "complemento", "pontoDeReferencia": "Ponto de Referencia", "idProprietario": 2 },
+    { "id": 3, "nome": "Estabelecimento3", "CNPJ": "00.000.000/0000-00", "telefone": "(00) 00000-0000", "email": "estabelecimento3@email.com", "cidade": "Juiz de Fora", "bairro": "bairro", "logradouro": "logradouro", "numero": "1", "complemento": "complemento", "pontoDeReferencia": "Ponto de Referencia", "idProprietario": 3 },
+    { "id": 4, "nome": "Estabelecimento4", "CNPJ": "00.000.000/0000-00", "telefone": "(00) 00000-0000", "email": "estabelecimento4@email.com", "cidade": "Juiz de Fora", "bairro": "bairro", "logradouro": "logradouro", "numero": "1", "complemento": "complemento", "pontoDeReferencia": "Ponto de Referencia", "idProprietario": 4 }
+  ],
+    "cupom": [
+    { "id": 1,  "desconto": "30%", "duracao": "1 dia", "nome": "cupom", "idEstabelecimento": 1 },
+    { "id": 2,  "desconto": "30%", "duracao": "1 dia", "nome": "cupom", "idEstabelecimento": 2 },
+    { "id": 3,  "desconto": "30%", "duracao": "1 dia", "nome": "cupom", "idEstabelecimento": 3 },
+    { "id": 4,  "desconto": "30%", "duracao": "1 dia", "nome": "cupom", "idEstabelecimento": 4 }
   ]
 }
